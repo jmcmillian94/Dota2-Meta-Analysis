@@ -23,3 +23,35 @@ The objective of this project was to identify the most influential heroes among 
 
 Utilizing the OpenDota API, I retrieved match data encompassing all 151 games of the International 2023 tournament. I isolated the draft data from each match, organizing it into a dataframe. This data serves as the foundation for constructing a tableau dashboard. Additionally, within the notebook, I've built several bar graph visualizations using Plotly, offering concise snapshots of findings derived from the dataset.
 
+## Installation
+
+1. Clone the repository
+Using git bash navigate to a directory that you would like to store the repo and enter this into your git bash terminal:
+```
+git clone https://github.com/jmcmillian94/Dota2-TI23-Draft-Phase-Analysis
+```
+2. Setup a virtual enviornment
+while still in the project directory enter this into your git bash terminal:
+```
+python -m venv venv
+```
+this will create a new virtual enviornment called venv inside your repo folder
+   
+3. activate the virtual enviornment
+while still in the project directory enter this command into you git bash terminal:
+```
+source .venv/Scripts/activate
+```
+you should see a '(venv.)' appear above you command line in the git bash terminal
+
+4. Install the required libraries
+while the virtual enviornment is active enter this command in the git bash terminal:
+```
+pip install -r requirements.txt
+```
+This will install all of the packages included in the requirements.txt file to mimic the enviornment that I created the project in
+
+5. With all of that done you can now open the Dota2 TI23 Draft Phase Analysis.ipynb file and execute the code. The code should create a 'draft_data.xlsx' file in the project file and also create two bar graphs, one for hero pick rate and one for hero ban rate. Remember that wehn you are finished you will need to deactivate the virtual enviornment using this comand in git bash:
+```
+deactivate
+```
