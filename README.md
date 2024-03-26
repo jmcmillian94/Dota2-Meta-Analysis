@@ -1,5 +1,7 @@
 # Dota2 TI23 Draft Phase Analysis
 
+![dota 2 banner](capsule_616x353.jpg)
+
 ## Context
 For those who may not be familiar, Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve Corporation. This games pits two teams of 5 players against each other in a race to destroy the opposing teams Ancient, a heavily guarded structure located within their base, while defending their own. Each player controls a powerful character known as a "hero," each with unique abilities and roles.
 Dota 2 is one of the most prominent titles in the esports scene. It boasts a large player base and a thriving competitive scene with numerous tournaments, including Valve's flagship event, The International, which features the world's best teams competing for millions of dollars in prize money. The game's complex mechanics, deep strategy, and constant updates have contributed to its enduring popularity among both players and spectators in the esports community.
