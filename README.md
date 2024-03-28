@@ -40,7 +40,7 @@ this will create a new virtual enviornment called venv inside your repo folder
 3. activate the virtual enviornment
 while still in the project directory enter this command into you git bash terminal:
 ```
-source .venv/Scripts/activate
+source venv/Scripts/activate
 ```
 you should see a '(venv.)' appear above you command line in the git bash terminal
 
